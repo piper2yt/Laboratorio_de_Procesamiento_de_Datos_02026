@@ -1,4 +1,4 @@
-# Laboratorio_de_Procesamiento_de_Datos_02026
+# Laboratorio de Procesamiento de Datos 02026
 
 Esta materia proporciona los fundamentos teóricos y prácticos para el procesamiento de datos con python, una etapa crítica en todo proyecto de ciencia de datos y aprendizaje automático. El curso está diseñado para que el estudiante desarrolle habilidades para identificar, transformar, crear y seleccionar características relevantes a partir de datos crudos, con el objetivo de mejorar el desempeño de los modelos predictivos.
 

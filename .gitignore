@@ -1,5 +1,6 @@
 # Ignore any directory whose name ends with " - Clase" or " - ClaseGuia"
 **/* - Clase/
+**/*_Clase/
 **/* - ClaseGuia/
 **/* - Clase Guía/
 **/Material_*
