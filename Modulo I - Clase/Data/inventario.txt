@@ -1,4 +1,0 @@
-manzana, 3
-piña, 2
-Pera, 5
-naranja,8
