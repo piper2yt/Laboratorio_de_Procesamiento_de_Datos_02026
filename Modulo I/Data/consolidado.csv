@@ -1,0 +1,23 @@
+Nombre,Números,Ciudad,origen
+Ana,10,Guadalajara,archivo_1.csv
+Beto,25,Monterrey,archivo_1.csv
+Carla,17,Ciudad de México,archivo_1.csv
+Diego,32,Puebla,archivo_1.csv
+Elena,8,Querétaro,archivo_2.csv
+Fernando,45,Guadalajara,archivo_2.csv
+Gabriela,21,Tijuana,archivo_2.csv
+Hugo,13,León,archivo_2.csv
+Inés,29,Mérida,archivo_2.csv
+Jorge,37,Monterrey,archivo_3.csv
+Karla,19,Puebla,archivo_3.csv
+Luis,26,Guadalajara,archivo_3.csv
+Marta,14,Toluca,archivo_4.csv
+Nicolás,41,Ciudad de México,archivo_4.csv
+Olivia,23,Cancún,archivo_4.csv
+Pablo,9,Morelia,archivo_4.csv
+Quetzal,30,Oaxaca,archivo_4.csv
+Rosa,18,Veracruz,archivo_4.csv
+Sofía,22,Guadalajara,archivo_5.csv
+Tomás,16,Aguascalientes,archivo_5.csv
+Úrsula,34,Saltillo,archivo_5.csv
+Víctor,27,Hermosillo,archivo_5.csv
